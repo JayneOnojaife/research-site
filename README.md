@@ -1,4 +1,4 @@
-# Cybersecurity Training Research Project
+# Cybersecurity Training Effectiveness Research Project
 
 ## Overview
 
